@@ -1,0 +1,67 @@
+$nomention
+$if[$getServerVar[dil]==tr]
+$color[#FF2400]
+$author[ZeriX Bot Yardım Menüsü]
+$description[$thumbnail[$userAvatar[812735625199353867]]
+<a:unlem:839477230122827807> | **Dil Ayarlamak için » z-dil tr/en(tam entegre değil!)** 
+<a:unlem:839477230122827807> | **Prefix » z- ** 
+<a:unlem:839477230122827807> | **z-bilgi » Bot  Hakkında Bilgi Verir! 
+**
+<a:cark:839485958750863381> | **``z-yetkili``
+ » Yetkili Komutları Hakkında Bilgi Verir!** 
+<a:cark:839485958750863381> | **``z-yetkili 2``
+ » Yetkili Komutları 2 Hakkında Bilgi Verir!** 
+<a:boost:839485940414414889> | **``z-kullanıcı``
+ » Herkesin Kullanabileçeği Komutlar!** 
+<a:minecimen:839485907098664990> | **``z-eğlence``
+ » Eğlence Komutları!** 
+<a:ekonomi:841273718675472404> | **``z-ekonomi``
+ » Ekonomi Komutları!** 
+<a:dev:839466519833477120> | **``z-byardım``
+ » Botlist Sistemi Komutları!**
+<a:developer:840564193236877342> | **``z-ksistemi``
+ » Sunucu Kayıt Sistemi Komutları!**
+<a:play:841264284716761099> | **``z-müzik``
+ » ZeriX Bot Müzik Komutları!**
+
+**<a:url:839477254731202580> »» [Botlist Sunucumuza Gelmek İçin Tıkla](https://discord.gg/aHtd2TrQCh)
+
+<:insta:839474968596709416> »» [Bot Sahibine Ulaşmak İçin Tıkla](https://instagram.com/cw.emrezerix)
+
+<a:url:839477254731202580> »» [ZeriX Botu Sunucunuza Ekleyin](https://discord.com/oauth2/authorize?client_id=812735625199353867&scope=bot&permissions=8)**
+
+$image[https://imguploads.net/images/2021/04/18/standard.gif]
+]
+
+$footer[Yardım Menümü İsteyen $username]
+$footerIcon[$authorAvatar]
+$addTimestamp
+$endif
+$if[$getServerVar[dil]==en]
+$color[#FF2400]
+$author[ZeriX Bot Help]
+
+$description[$thumbnail[$userAvatar[812735625199353867]]
+<a:unlem:839477230122827807> | **Set Language » z-dil en/tr**
+<a:unlem:839477230122827807> | **Prefix » z- **
+<a:unlem:839477230122827807> | **z-bilgi » Gives Information About The Bot!**
+
+<a:unlem:839477230122827807> | **z-yetkili » Gives Information About Authorized Commands!**
+<a:unlem:839477230122827807> | **z-kullanıcı » Commands That Everyone Can Use!**
+<a:unlem:839477230122827807> | **z-eğlence » Fun Commands!**
+<a:unlem:839477230122827807> | **z-ekonomi » Economy Commands!**
+<a:unlem:839477230122827807> | **z-botlist-yardım » Botlist System Commands!**
+
+**<a:url:839477254731202580> »» [Click Here To Come To Our Botlist Server](https://discord.gg/aHtd2TrQCh)
+
+<a:url:839477254731202580> »» [Click to Reach the Bot Owner](https://instagram.com/cw.emrezerix)
+
+<a:url:839477254731202580> »» [Add ZeriX Bot to Your Server](https://discord.com/oauth2/authorize?client_id=812735625199353867&scope=bot&permissions=8)**
+
+$image[https://imguploads.net/images/2021/04/18/standard.gif]
+]
+
+$footer[Asking for My Help Menu $username]
+$footerIcon[$authorAvatar]
+$addTimestamp
+$endif
